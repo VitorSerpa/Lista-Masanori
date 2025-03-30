@@ -20,3 +20,4 @@ for i in range(0, 19):
 print(listaInteira)
 print(listaImpar)
 print(listaPar)
+    
